@@ -11,7 +11,7 @@
 <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
 <img src="{https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
-<img src="    https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 #### Skills Frameworks & Library  🚀
@@ -64,8 +64,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
-<img src="">
-<img src="">
+
 
 #### Skills Design: 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
@@ -78,8 +77,7 @@
 <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white">
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-<img src="">
-<img src="">
+
 
 #### Contact With Me:
 ![https://www.instagram.com/mutant_calisthenics/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
